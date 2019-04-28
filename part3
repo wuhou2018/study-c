@@ -1,0 +1,4 @@
+#define AGE 20  /*定义常量*/
+int m_iAge;     /*定义整型成员变量*/
+int iNumber;    /*定义普通整型变量*/
+int * pAge;     /*定义指针变量*/
